@@ -25,3 +25,15 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.mainnav ul{
+  display: flex;
+  justify-content: center;
+  margin-top: 55px;
+
+}
+.mainnav ul li{
+  margin: 0 20px;
+  list-style: none;
+  font-weight: bold;
+}
